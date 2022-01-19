@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi 👋, I'm Paul
+
+---
+
+📫 How to reach me:
+
+* Twitter: [@guilbertpaul](https://twitter.com/GuilbertPaul)
+* [Linkedin](https://www.linkedin.com/in/paulguilbert/)
 
 <!--
 **pguilbert/pguilbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
